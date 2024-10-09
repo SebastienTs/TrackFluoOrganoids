@@ -1,5 +1,5 @@
 # TrackFluoOrganoids
-Segment &amp; track fluorescent organoids in a 2D time-lapse
+An ImageJ macro to Segment &amp; track fluorescent organoids in a 2D time-lapse
 
 To run the ImageJ macro:
 
